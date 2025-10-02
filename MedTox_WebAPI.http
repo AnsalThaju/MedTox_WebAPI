@@ -1,0 +1,6 @@
+@MedTox_WebAPI_HostAddress = http://localhost:5184
+
+GET {{MedTox_WebAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

@@ -1,0 +1,16 @@
+# Visual Studio
+.vs/
+bin/
+obj/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+*.dbmdl
+
+# Node (if using React/JS)
+node_modules/
+package-lock.json
+
+# Logs
+*.log
